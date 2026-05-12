@@ -16,7 +16,7 @@ Dự án xây dựng mô hình học máy bằng **R** để dự đoán khả n
 | HE190470 | Hoàng Bảo Khánh |
 | HE186899 | Nguyễn Hữu Hoàng Thân |
 | HE190252 | Vũ Thị Khánh Huyền |
-| HE194956 | Phan Vĩnh Khoa |
+| HE194956 | Phan Vinh Khoa |
 
 ## Dữ liệu
 
